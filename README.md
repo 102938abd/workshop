@@ -1,2 +1,2 @@
 # workshop
-The project just for practice.
+The project that just for practice.
