@@ -1,2 +1,2 @@
 # workshop
-This project is just for practice.
+The project just for practice.
